@@ -1,0 +1,331 @@
+D:\Project\Bank\Bank\bin\Debug\Bank.exe.config
+D:\Project\Bank\Bank\bin\Debug\Bank.exe
+D:\Project\Bank\Bank\bin\Debug\Bank.pdb
+D:\Project\Bank\Bank\obj\Debug\Bank.csprojResolveAssemblyReference.cache
+D:\Project\Bank\Bank\obj\Debug\Bank.Login.resources
+D:\Project\Bank\Bank\obj\Debug\Bank.Properties.Resources.resources
+D:\Project\Bank\Bank\obj\Debug\Bank.csproj.GenerateResource.Cache
+D:\Project\Bank\Bank\obj\Debug\Bank.exe
+D:\Project\Bank\Bank\obj\Debug\Bank.pdb
+C:\Users\admin\Downloads\Project\Bank\Bank\bin\Debug\Bank.exe.config
+C:\Users\admin\Downloads\Project\Bank\Bank\obj\Debug\Bank.pdb
+C:\Users\admin\Downloads\Project\Bank\Bank\bin\Debug\Bank.exe
+C:\Users\admin\Downloads\Project\Bank\Bank\bin\Debug\Bank.pdb
+C:\Users\admin\Downloads\Project\Bank\Bank\obj\Debug\Bank.csprojResolveAssemblyReference.cache
+C:\Users\admin\Downloads\Project\Bank\Bank\obj\Debug\Bank.Login.resources
+C:\Users\admin\Downloads\Project\Bank\Bank\obj\Debug\Bank.Properties.Resources.resources
+C:\Users\admin\Downloads\Project\Bank\Bank\obj\Debug\Bank.csproj.GenerateResource.Cache
+C:\Users\admin\Downloads\Project\Bank\Bank\obj\Debug\Bank.exe
+C:\Users\admin\Downloads\Project\Bank\Bank\obj\Debug\Bank.home.resources
+C:\Users\Husen\Downloads\Bank-20230812T183209Z-001\Bank\Bank\bin\Debug\Bank.exe.config
+C:\Users\Husen\Downloads\Bank-20230812T183209Z-001\Bank\Bank\obj\Debug\Bank.pdb
+C:\Users\Husen\Downloads\Bank-20230812T183209Z-001\Bank\Bank\bin\Debug\Bank.exe
+C:\Users\Husen\Downloads\Bank-20230812T183209Z-001\Bank\Bank\bin\Debug\Bank.pdb
+C:\Users\Husen\Downloads\Bank-20230812T183209Z-001\Bank\Bank\obj\Debug\Bank.csprojResolveAssemblyReference.cache
+C:\Users\Husen\Downloads\Bank-20230812T183209Z-001\Bank\Bank\obj\Debug\Bank.AccountDetails.resources
+C:\Users\Husen\Downloads\Bank-20230812T183209Z-001\Bank\Bank\obj\Debug\Bank.Login.resources
+C:\Users\Husen\Downloads\Bank-20230812T183209Z-001\Bank\Bank\obj\Debug\Bank.home.resources
+C:\Users\Husen\Downloads\Bank-20230812T183209Z-001\Bank\Bank\obj\Debug\Bank.Properties.Resources.resources
+C:\Users\Husen\Downloads\Bank-20230812T183209Z-001\Bank\Bank\obj\Debug\Bank.csproj.GenerateResource.Cache
+C:\Users\Husen\Downloads\Bank-20230812T183209Z-001\Bank\Bank\obj\Debug\Bank.exe
+C:\Users\admin\Downloads\Bank\Bank\bin\Debug\Bank.exe.config
+C:\Users\admin\Downloads\Bank\Bank\obj\Debug\Bank.exe
+C:\Users\admin\Downloads\Bank\Bank\obj\Debug\Bank.pdb
+C:\Users\admin\Downloads\Bank\Bank\bin\Debug\Bank.exe
+C:\Users\admin\Downloads\Bank\Bank\bin\Debug\Bank.pdb
+C:\Users\admin\Downloads\Bank\Bank\obj\Debug\Bank.csprojResolveAssemblyReference.cache
+C:\Users\admin\Downloads\Bank\Bank\obj\Debug\Bank.AccountDetails.resources
+C:\Users\admin\Downloads\Bank\Bank\obj\Debug\Bank.Login.resources
+C:\Users\admin\Downloads\Bank\Bank\obj\Debug\Bank.Properties.Resources.resources
+C:\Users\admin\Downloads\Bank\Bank\obj\Debug\Bank.csproj.GenerateResource.Cache
+C:\Users\admin\Downloads\Bank\Bank\obj\Debug\Bank.frmHome.resources
+C:\Users\admin\Downloads\Bank\Bank\obj\Debug\Bank.Login1.resources
+C:\Users\admin\Downloads\latest\Bank\bin\Debug\Bank.exe.config
+C:\Users\admin\Downloads\latest\Bank\obj\Debug\Bank.exe
+C:\Users\admin\Downloads\latest\Bank\obj\Debug\Bank.pdb
+C:\Users\admin\Downloads\latest\Bank\bin\Debug\Bank.exe
+C:\Users\admin\Downloads\latest\Bank\bin\Debug\Bank.pdb
+C:\Users\admin\Downloads\latest\Bank\obj\Debug\Bank.csprojResolveAssemblyReference.cache
+C:\Users\admin\Downloads\latest\Bank\obj\Debug\Bank.AccountDetails.resources
+C:\Users\admin\Downloads\latest\Bank\obj\Debug\Bank.Login.resources
+C:\Users\admin\Downloads\latest\Bank\obj\Debug\Bank.frmHome.resources
+C:\Users\admin\Downloads\latest\Bank\obj\Debug\Bank.Login1.resources
+C:\Users\admin\Downloads\latest\Bank\obj\Debug\Bank.Properties.Resources.resources
+C:\Users\admin\Downloads\latest\Bank\obj\Debug\Bank.csproj.GenerateResource.Cache
+C:\Users\DELL\Downloads\latest\Bank\bin\Debug\Bank.exe.config
+C:\Users\DELL\Downloads\latest\Bank\obj\Debug\Bank.pdb
+C:\Users\DELL\Downloads\latest\Bank\bin\Debug\Bank.exe
+C:\Users\DELL\Downloads\latest\Bank\bin\Debug\Bank.pdb
+C:\Users\DELL\Downloads\latest\Bank\obj\Debug\Bank.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Downloads\latest\Bank\obj\Debug\Bank.AccountDetails.resources
+C:\Users\DELL\Downloads\latest\Bank\obj\Debug\Bank.Login.resources
+C:\Users\DELL\Downloads\latest\Bank\obj\Debug\Bank.frmHome.resources
+C:\Users\DELL\Downloads\latest\Bank\obj\Debug\Bank.Login1.resources
+C:\Users\DELL\Downloads\latest\Bank\obj\Debug\Bank.Properties.Resources.resources
+C:\Users\DELL\Downloads\latest\Bank\obj\Debug\Bank.csproj.GenerateResource.Cache
+C:\Users\DELL\Downloads\latest\Bank\obj\Debug\Bank.exe
+C:\Users\DELL\Downloads\latest\Bank\obj\Debug\Bank.Employee_Detail.resources
+E:\super latest\Bank\bin\Debug\Bank.exe.config
+E:\super latest\Bank\obj\Debug\Bank.exe
+E:\super latest\Bank\obj\Debug\Bank.pdb
+E:\super latest\Bank\bin\Debug\Bank.exe
+E:\super latest\Bank\bin\Debug\Bank.pdb
+E:\super latest\Bank\obj\Debug\Bank.csprojResolveAssemblyReference.cache
+E:\super latest\Bank\obj\Debug\Bank.AccountDetails.resources
+E:\super latest\Bank\obj\Debug\Bank.Customer_List.resources
+E:\super latest\Bank\obj\Debug\Bank.Employee_Detail.resources
+E:\super latest\Bank\obj\Debug\Bank.Login.resources
+E:\super latest\Bank\obj\Debug\Bank.frmHome.resources
+E:\super latest\Bank\obj\Debug\Bank.Login1.resources
+E:\super latest\Bank\obj\Debug\Bank.Properties.Resources.resources
+E:\super latest\Bank\obj\Debug\Bank.csproj.GenerateResource.Cache
+C:\Users\PC41\Downloads\super latest\Bank\bin\Debug\Bank.exe.config
+C:\Users\PC41\Downloads\super latest\Bank\obj\Debug\Bank.pdb
+C:\Users\PC41\Downloads\super latest\Bank\obj\Debug\Bank.csprojResolveAssemblyReference.cache
+C:\Users\PC41\Downloads\super latest\Bank\obj\Debug\Bank.Customer_List.resources
+C:\Users\PC41\Downloads\super latest\Bank\obj\Debug\Bank.Employee_Detail.resources
+C:\Users\PC41\Downloads\super latest\Bank\obj\Debug\Bank.frmHome.resources
+C:\Users\PC41\Downloads\super latest\Bank\obj\Debug\Bank.Login1.resources
+C:\Users\PC41\Downloads\super latest\Bank\obj\Debug\Bank.Properties.Resources.resources
+C:\Users\PC41\Downloads\super latest\Bank\obj\Debug\Bank.Transaction.resources
+C:\Users\PC41\Downloads\super latest\Bank\obj\Debug\Bank.csproj.GenerateResource.Cache
+C:\Users\PC41\Downloads\super latest\Bank\bin\Debug\Bank.exe
+C:\Users\PC41\Downloads\super latest\Bank\bin\Debug\Bank.pdb
+C:\Users\PC41\Downloads\super latest\Bank\obj\Debug\Bank.exe
+C:\Users\PC41\Downloads\super latest\Bank\obj\Debug\Bank.AccountDetails.resources
+C:\Users\PC41\Downloads\super latest\Bank\obj\Debug\Bank.NewAccount.resources
+C:\Users\admin\Downloads\all\Bank\bin\Debug\Bank.exe.config
+C:\Users\admin\Downloads\all\Bank\obj\Debug\Bank.pdb
+C:\Users\admin\Downloads\all\Bank\obj\Debug\Bank.csprojResolveAssemblyReference.cache
+C:\Users\admin\Downloads\all\Bank\obj\Debug\Bank.AccountDetails.resources
+C:\Users\admin\Downloads\all\Bank\obj\Debug\Bank.Customer_List.resources
+C:\Users\admin\Downloads\all\Bank\obj\Debug\Bank.Employee_Detail.resources
+C:\Users\admin\Downloads\all\Bank\obj\Debug\Bank.Home.resources
+C:\Users\admin\Downloads\all\Bank\obj\Debug\Bank.Login1.resources
+C:\Users\admin\Downloads\all\Bank\obj\Debug\Bank.NewAccount.resources
+C:\Users\admin\Downloads\all\Bank\obj\Debug\Bank.Properties.Resources.resources
+C:\Users\admin\Downloads\all\Bank\obj\Debug\Bank.Transaction.resources
+C:\Users\admin\Downloads\all\Bank\obj\Debug\Bank.csproj.GenerateResource.Cache
+C:\Users\admin\Downloads\all\Bank\bin\Debug\Bank.exe
+C:\Users\admin\Downloads\all\Bank\bin\Debug\Bank.pdb
+C:\Users\admin\Downloads\all\Bank\obj\Debug\Bank.exe
+C:\Users\admin\Downloads\all\Bank\obj\Debug\Bank.CheckBal.resources
+D:\New folder (3)\all\Bank\bin\Debug\Bank.exe.config
+D:\New folder (3)\all\Bank\obj\Debug\Bank.exe
+D:\New folder (3)\all\Bank\obj\Debug\Bank.pdb
+D:\New folder (3)\all\Bank\bin\Debug\Bank.exe
+D:\New folder (3)\all\Bank\bin\Debug\Bank.pdb
+D:\New folder (3)\all\Bank\obj\Debug\Bank.csprojResolveAssemblyReference.cache
+D:\New folder (3)\all\Bank\obj\Debug\Bank.AccountDetails.resources
+D:\New folder (3)\all\Bank\obj\Debug\Bank.CheckBal.resources
+D:\New folder (3)\all\Bank\obj\Debug\Bank.Customer_List.resources
+D:\New folder (3)\all\Bank\obj\Debug\Bank.Employee_Detail.resources
+D:\New folder (3)\all\Bank\obj\Debug\Bank.Home.resources
+D:\New folder (3)\all\Bank\obj\Debug\Bank.NewAccount.resources
+D:\New folder (3)\all\Bank\obj\Debug\Bank.Properties.Resources.resources
+D:\New folder (3)\all\Bank\obj\Debug\Bank.Transaction.resources
+D:\New folder (3)\all\Bank\obj\Debug\Bank.csproj.GenerateResource.Cache
+D:\New folder (3)\all\Bank\obj\Debug\Bank.Login.resources
+C:\Users\PC41\Downloads\all\Bank\bin\Debug\Bank.exe.config
+C:\Users\PC41\Downloads\all\Bank\obj\Debug\Bank.pdb
+C:\Users\PC41\Downloads\all\Bank\bin\Debug\Bank.exe
+C:\Users\PC41\Downloads\all\Bank\bin\Debug\Bank.pdb
+C:\Users\PC41\Downloads\all\Bank\obj\Debug\Bank.csprojResolveAssemblyReference.cache
+C:\Users\PC41\Downloads\all\Bank\obj\Debug\Bank.AccountDetails.resources
+C:\Users\PC41\Downloads\all\Bank\obj\Debug\Bank.CheckBal.resources
+C:\Users\PC41\Downloads\all\Bank\obj\Debug\Bank.Customer_List.resources
+C:\Users\PC41\Downloads\all\Bank\obj\Debug\Bank.Employee_Detail.resources
+C:\Users\PC41\Downloads\all\Bank\obj\Debug\Bank.Home.resources
+C:\Users\PC41\Downloads\all\Bank\obj\Debug\Bank.Login.resources
+C:\Users\PC41\Downloads\all\Bank\obj\Debug\Bank.NewAccount.resources
+C:\Users\PC41\Downloads\all\Bank\obj\Debug\Bank.Properties.Resources.resources
+C:\Users\PC41\Downloads\all\Bank\obj\Debug\Bank.Transaction.resources
+C:\Users\PC41\Downloads\all\Bank\obj\Debug\Bank.csproj.GenerateResource.Cache
+C:\Users\PC41\Downloads\all\Bank\obj\Debug\Bank.exe
+C:\Users\PC41\Downloads\all\Bank\obj\Debug\Bank.Records.resources
+C:\Users\admin\Downloads\all1\Bank\bin\Debug\Bank.exe.config
+C:\Users\admin\Downloads\all1\Bank\obj\Debug\Bank.pdb
+C:\Users\admin\Downloads\all1\Bank\bin\Debug\Bank.exe
+C:\Users\admin\Downloads\all1\Bank\bin\Debug\Bank.pdb
+C:\Users\admin\Downloads\all1\Bank\obj\Debug\Bank.csprojResolveAssemblyReference.cache
+C:\Users\admin\Downloads\all1\Bank\obj\Debug\Bank.AccountDetails.resources
+C:\Users\admin\Downloads\all1\Bank\obj\Debug\Bank.CheckBal.resources
+C:\Users\admin\Downloads\all1\Bank\obj\Debug\Bank.Customer_List.resources
+C:\Users\admin\Downloads\all1\Bank\obj\Debug\Bank.Employee_Detail.resources
+C:\Users\admin\Downloads\all1\Bank\obj\Debug\Bank.Home.resources
+C:\Users\admin\Downloads\all1\Bank\obj\Debug\Bank.Login.resources
+C:\Users\admin\Downloads\all1\Bank\obj\Debug\Bank.NewAccount.resources
+C:\Users\admin\Downloads\all1\Bank\obj\Debug\Bank.Properties.Resources.resources
+C:\Users\admin\Downloads\all1\Bank\obj\Debug\Bank.Records.resources
+C:\Users\admin\Downloads\all1\Bank\obj\Debug\Bank.Transaction.resources
+C:\Users\admin\Downloads\all1\Bank\obj\Debug\Bank.csproj.GenerateResource.Cache
+C:\Users\admin\Downloads\all1\Bank\obj\Debug\Bank.exe
+C:\Users\PC41\Downloads\all1\Bank\bin\Debug\Bank.exe.config
+C:\Users\PC41\Downloads\all1\Bank\obj\Debug\Bank.pdb
+C:\Users\PC41\Downloads\all1\Bank\bin\Debug\Bank.exe
+C:\Users\PC41\Downloads\all1\Bank\bin\Debug\Bank.pdb
+C:\Users\PC41\Downloads\all1\Bank\obj\Debug\Bank.csprojResolveAssemblyReference.cache
+C:\Users\PC41\Downloads\all1\Bank\obj\Debug\Bank.AccountDetails.resources
+C:\Users\PC41\Downloads\all1\Bank\obj\Debug\Bank.CheckBal.resources
+C:\Users\PC41\Downloads\all1\Bank\obj\Debug\Bank.Customer_List.resources
+C:\Users\PC41\Downloads\all1\Bank\obj\Debug\Bank.Employee_Detail.resources
+C:\Users\PC41\Downloads\all1\Bank\obj\Debug\Bank.Home.resources
+C:\Users\PC41\Downloads\all1\Bank\obj\Debug\Bank.Login.resources
+C:\Users\PC41\Downloads\all1\Bank\obj\Debug\Bank.NewAccount.resources
+C:\Users\PC41\Downloads\all1\Bank\obj\Debug\Bank.Properties.Resources.resources
+C:\Users\PC41\Downloads\all1\Bank\obj\Debug\Bank.Records.resources
+C:\Users\PC41\Downloads\all1\Bank\obj\Debug\Bank.Transaction.resources
+C:\Users\PC41\Downloads\all1\Bank\obj\Debug\Bank.csproj.GenerateResource.Cache
+C:\Users\PC41\Downloads\all1\Bank\obj\Debug\Bank.exe
+Z:\B2122_071\all1\Bank\bin\Debug\Bank.exe.config
+Z:\B2122_071\all1\Bank\obj\Debug\Bank.exe
+Z:\B2122_071\all1\Bank\obj\Debug\Bank.pdb
+Z:\B2122_071\all1\Bank\bin\Debug\Bank.exe
+Z:\B2122_071\all1\Bank\bin\Debug\Bank.pdb
+Z:\B2122_071\all1\Bank\obj\Debug\Bank.csprojResolveAssemblyReference.cache
+Z:\B2122_071\all1\Bank\obj\Debug\Bank.AccountDetails.resources
+Z:\B2122_071\all1\Bank\obj\Debug\Bank.CheckBal.resources
+Z:\B2122_071\all1\Bank\obj\Debug\Bank.Customer_List.resources
+Z:\B2122_071\all1\Bank\obj\Debug\Bank.Employee_Detail.resources
+Z:\B2122_071\all1\Bank\obj\Debug\Bank.Home.resources
+Z:\B2122_071\all1\Bank\obj\Debug\Bank.Login.resources
+Z:\B2122_071\all1\Bank\obj\Debug\Bank.NewAccount.resources
+Z:\B2122_071\all1\Bank\obj\Debug\Bank.Properties.Resources.resources
+Z:\B2122_071\all1\Bank\obj\Debug\Bank.Records.resources
+Z:\B2122_071\all1\Bank\obj\Debug\Bank.Transaction.resources
+Z:\B2122_071\all1\Bank\obj\Debug\Bank.csproj.GenerateResource.Cache
+C:\Users\Husen\Downloads\all1\Bank\bin\Debug\Bank.exe.config
+C:\Users\Husen\Downloads\all1\Bank\obj\Debug\Bank.pdb
+C:\Users\Husen\Downloads\all1\Bank\bin\Debug\Bank.exe
+C:\Users\Husen\Downloads\all1\Bank\bin\Debug\Bank.pdb
+C:\Users\Husen\Downloads\all1\Bank\obj\Debug\Bank.csprojResolveAssemblyReference.cache
+C:\Users\Husen\Downloads\all1\Bank\obj\Debug\Bank.AccountDetails.resources
+C:\Users\Husen\Downloads\all1\Bank\obj\Debug\Bank.CheckBal.resources
+C:\Users\Husen\Downloads\all1\Bank\obj\Debug\Bank.Customer_List.resources
+C:\Users\Husen\Downloads\all1\Bank\obj\Debug\Bank.Employee_Detail.resources
+C:\Users\Husen\Downloads\all1\Bank\obj\Debug\Bank.Home.resources
+C:\Users\Husen\Downloads\all1\Bank\obj\Debug\Bank.Login.resources
+C:\Users\Husen\Downloads\all1\Bank\obj\Debug\Bank.NewAccount.resources
+C:\Users\Husen\Downloads\all1\Bank\obj\Debug\Bank.Properties.Resources.resources
+C:\Users\Husen\Downloads\all1\Bank\obj\Debug\Bank.Records.resources
+C:\Users\Husen\Downloads\all1\Bank\obj\Debug\Bank.Transaction.resources
+C:\Users\Husen\Downloads\all1\Bank\obj\Debug\Bank.csproj.GenerateResource.Cache
+C:\Users\Husen\Downloads\all1\Bank\obj\Debug\Bank.exe
+C:\Users\admin\Downloads\25-9\Bank\bin\Debug\Bank.exe.config
+C:\Users\admin\Downloads\25-9\Bank\obj\Debug\Bank.exe
+C:\Users\admin\Downloads\25-9\Bank\obj\Debug\Bank.pdb
+C:\Users\admin\Downloads\25-9\Bank\bin\Debug\Bank.exe
+C:\Users\admin\Downloads\25-9\Bank\bin\Debug\Bank.pdb
+C:\Users\admin\Downloads\25-9\Bank\obj\Debug\Bank.csprojResolveAssemblyReference.cache
+C:\Users\admin\Downloads\25-9\Bank\obj\Debug\Bank.AccountDetails.resources
+C:\Users\admin\Downloads\25-9\Bank\obj\Debug\Bank.CheckBal.resources
+C:\Users\admin\Downloads\25-9\Bank\obj\Debug\Bank.Customer_List.resources
+C:\Users\admin\Downloads\25-9\Bank\obj\Debug\Bank.Employee_Detail.resources
+C:\Users\admin\Downloads\25-9\Bank\obj\Debug\Bank.Home.resources
+C:\Users\admin\Downloads\25-9\Bank\obj\Debug\Bank.Login.resources
+C:\Users\admin\Downloads\25-9\Bank\obj\Debug\Bank.NewAccount.resources
+C:\Users\admin\Downloads\25-9\Bank\obj\Debug\Bank.Properties.Resources.resources
+C:\Users\admin\Downloads\25-9\Bank\obj\Debug\Bank.Records.resources
+C:\Users\admin\Downloads\25-9\Bank\obj\Debug\Bank.Transaction.resources
+C:\Users\admin\Downloads\25-9\Bank\obj\Debug\Bank.csproj.GenerateResource.Cache
+Z:\B2122_071\27-9\25-9\Bank\bin\Debug\Bank.exe.config
+Z:\B2122_071\27-9\25-9\Bank\obj\Debug\Bank.pdb
+Z:\B2122_071\27-9\25-9\Bank\bin\Debug\Bank.exe
+Z:\B2122_071\27-9\25-9\Bank\bin\Debug\Bank.pdb
+Z:\B2122_071\27-9\25-9\Bank\obj\Debug\Bank.csprojResolveAssemblyReference.cache
+Z:\B2122_071\27-9\25-9\Bank\obj\Debug\Bank.AccountDetails.resources
+Z:\B2122_071\27-9\25-9\Bank\obj\Debug\Bank.CheckBal.resources
+Z:\B2122_071\27-9\25-9\Bank\obj\Debug\Bank.Customer_List.resources
+Z:\B2122_071\27-9\25-9\Bank\obj\Debug\Bank.Employee_Detail.resources
+Z:\B2122_071\27-9\25-9\Bank\obj\Debug\Bank.Home.resources
+Z:\B2122_071\27-9\25-9\Bank\obj\Debug\Bank.Login.resources
+Z:\B2122_071\27-9\25-9\Bank\obj\Debug\Bank.NewAccount.resources
+Z:\B2122_071\27-9\25-9\Bank\obj\Debug\Bank.Properties.Resources.resources
+Z:\B2122_071\27-9\25-9\Bank\obj\Debug\Bank.Records.resources
+Z:\B2122_071\27-9\25-9\Bank\obj\Debug\Bank.Transaction.resources
+Z:\B2122_071\27-9\25-9\Bank\obj\Debug\Bank.csproj.GenerateResource.Cache
+Z:\B2122_071\27-9\25-9\Bank\obj\Debug\Bank.exe
+D:\000\25-9\Bank\bin\Debug\Bank.exe.config
+D:\000\25-9\Bank\bin\Debug\Bank.exe
+D:\000\25-9\Bank\bin\Debug\Bank.pdb
+D:\000\25-9\Bank\obj\Debug\Bank.AccountDetails.resources
+D:\000\25-9\Bank\obj\Debug\Bank.CheckBal.resources
+D:\000\25-9\Bank\obj\Debug\Bank.Customer_List.resources
+D:\000\25-9\Bank\obj\Debug\Bank.Employee_Detail.resources
+D:\000\25-9\Bank\obj\Debug\Bank.Home.resources
+D:\000\25-9\Bank\obj\Debug\Bank.Login.resources
+D:\000\25-9\Bank\obj\Debug\Bank.NewAccount.resources
+D:\000\25-9\Bank\obj\Debug\Bank.Properties.Resources.resources
+D:\000\25-9\Bank\obj\Debug\Bank.Records.resources
+D:\000\25-9\Bank\obj\Debug\Bank.Transaction.resources
+D:\000\25-9\Bank\obj\Debug\Bank.csproj.GenerateResource.Cache
+D:\000\25-9\Bank\obj\Debug\Bank.exe
+D:\000\25-9\Bank\obj\Debug\Bank.pdb
+D:\000\29-9\Bank\bin\Debug\Bank.exe.config
+D:\000\29-9\Bank\obj\Debug\Bank.pdb
+D:\000\29-9\Bank\obj\Debug\Bank.csprojResolveAssemblyReference.cache
+D:\000\29-9\Bank\obj\Debug\Bank.AccountDetails.resources
+D:\000\29-9\Bank\obj\Debug\Bank.CheckBal.resources
+D:\000\29-9\Bank\obj\Debug\Bank.Customer_List.resources
+D:\000\29-9\Bank\obj\Debug\Bank.Employee_Detail.resources
+D:\000\29-9\Bank\obj\Debug\Bank.Home.resources
+D:\000\29-9\Bank\obj\Debug\Bank.Login.resources
+D:\000\29-9\Bank\obj\Debug\Bank.NewAccount.resources
+D:\000\29-9\Bank\obj\Debug\Bank.Properties.Resources.resources
+D:\000\29-9\Bank\obj\Debug\Bank.Records.resources
+D:\000\29-9\Bank\obj\Debug\Bank.Transaction.resources
+D:\000\29-9\Bank\obj\Debug\Bank.csproj.GenerateResource.Cache
+D:\000\29-9\Bank\bin\Debug\Bank.exe
+D:\000\29-9\Bank\bin\Debug\Bank.pdb
+D:\000\29-9\Bank\obj\Debug\Bank.exe
+D:\hussian\29-9\Bank\bin\Debug\Bank.exe.config
+D:\hussian\29-9\Bank\obj\Debug\Bank.exe
+D:\hussian\29-9\Bank\obj\Debug\Bank.pdb
+D:\hussian\29-9\Bank\bin\Debug\Bank.exe
+D:\hussian\29-9\Bank\bin\Debug\Bank.pdb
+D:\hussian\29-9\Bank\obj\Debug\Bank.csprojResolveAssemblyReference.cache
+D:\hussian\29-9\Bank\obj\Debug\Bank.AccountDetails.resources
+D:\hussian\29-9\Bank\obj\Debug\Bank.CheckBal.resources
+D:\hussian\29-9\Bank\obj\Debug\Bank.Customer_List.resources
+D:\hussian\29-9\Bank\obj\Debug\Bank.Employee_Detail.resources
+D:\hussian\29-9\Bank\obj\Debug\Bank.Home.resources
+D:\hussian\29-9\Bank\obj\Debug\Bank.Login.resources
+D:\hussian\29-9\Bank\obj\Debug\Bank.NewAccount.resources
+D:\hussian\29-9\Bank\obj\Debug\Bank.Properties.Resources.resources
+D:\hussian\29-9\Bank\obj\Debug\Bank.Records.resources
+D:\hussian\29-9\Bank\obj\Debug\Bank.Transaction.resources
+D:\hussian\29-9\Bank\obj\Debug\Bank.csproj.GenerateResource.Cache
+D:\New folder (7)\hussian\29-9\Bank\bin\Debug\Bank.exe.config
+D:\New folder (7)\hussian\29-9\Bank\obj\Debug\Bank.pdb
+D:\New folder (7)\hussian\29-9\Bank\bin\Debug\Bank.exe
+D:\New folder (7)\hussian\29-9\Bank\bin\Debug\Bank.pdb
+D:\New folder (7)\hussian\29-9\Bank\obj\Debug\Bank.csprojResolveAssemblyReference.cache
+D:\New folder (7)\hussian\29-9\Bank\obj\Debug\Bank.AccountDetails.resources
+D:\New folder (7)\hussian\29-9\Bank\obj\Debug\Bank.CheckBal.resources
+D:\New folder (7)\hussian\29-9\Bank\obj\Debug\Bank.Customer_List.resources
+D:\New folder (7)\hussian\29-9\Bank\obj\Debug\Bank.Employee_Detail.resources
+D:\New folder (7)\hussian\29-9\Bank\obj\Debug\Bank.Home.resources
+D:\New folder (7)\hussian\29-9\Bank\obj\Debug\Bank.Login.resources
+D:\New folder (7)\hussian\29-9\Bank\obj\Debug\Bank.NewAccount.resources
+D:\New folder (7)\hussian\29-9\Bank\obj\Debug\Bank.Properties.Resources.resources
+D:\New folder (7)\hussian\29-9\Bank\obj\Debug\Bank.Records.resources
+D:\New folder (7)\hussian\29-9\Bank\obj\Debug\Bank.Transaction.resources
+D:\New folder (7)\hussian\29-9\Bank\obj\Debug\Bank.csproj.GenerateResource.Cache
+D:\New folder (7)\hussian\29-9\Bank\obj\Debug\Bank.exe
+E:\Bank\Bank\bin\Debug\Bank.exe.config
+E:\Bank\Bank\obj\Debug\Bank.exe
+E:\Bank\Bank\obj\Debug\Bank.pdb
+E:\Bank\Bank\bin\Debug\Bank.exe
+E:\Bank\Bank\bin\Debug\Bank.pdb
+E:\Bank\Bank\obj\Debug\Bank.csprojResolveAssemblyReference.cache
+E:\Bank\Bank\obj\Debug\Bank.AccountDetails.resources
+E:\Bank\Bank\obj\Debug\Bank.CheckBal.resources
+E:\Bank\Bank\obj\Debug\Bank.Customer_List.resources
+E:\Bank\Bank\obj\Debug\Bank.Employee_Detail.resources
+E:\Bank\Bank\obj\Debug\Bank.Home.resources
+E:\Bank\Bank\obj\Debug\Bank.Login.resources
+E:\Bank\Bank\obj\Debug\Bank.NewAccount.resources
+E:\Bank\Bank\obj\Debug\Bank.Properties.Resources.resources
+E:\Bank\Bank\obj\Debug\Bank.Records.resources
+E:\Bank\Bank\obj\Debug\Bank.Transaction.resources
+E:\Bank\Bank\obj\Debug\Bank.csproj.GenerateResource.Cache
